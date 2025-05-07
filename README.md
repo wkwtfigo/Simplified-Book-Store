@@ -32,8 +32,8 @@ This application allows users to register, subscribe for notifications, read boo
 1. Clone the Repository
 
    ```bash
-   git clone https://github.com/yourusername/bookstore-java.git
-   cd bookstore-java
+   git clone https://github.com/yourusername/Simplified-Book-Store.git
+   cd Simplified-Book-Store
    ```
 
 2. Compile and Run
